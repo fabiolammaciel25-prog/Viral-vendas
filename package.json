@@ -1,0 +1,9 @@
+{
+  "name": "viral-vendas",
+  "version": "1.0.0",
+  "description": "Motor automatico do aplicativo Viral Vendas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
